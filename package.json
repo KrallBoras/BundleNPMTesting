@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bundledkrall_npmpackage": "^1.0.0",
+    "webpack-cli": "^5.1.1"
+  }
+}
